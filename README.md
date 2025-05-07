@@ -50,6 +50,7 @@ Controls sound, visuals, and gameplay state.
 
 
 Arduino
+
 Sends joystick (X, Y) and button states to p5.js.
 
 
