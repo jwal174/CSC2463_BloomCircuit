@@ -3,6 +3,7 @@ Project Outline
 Bloom Circuit is an interactive, time-limited game where players control a robot gardener, BloomBot, tasked with restoring life to a barren, broken world using a joystick and buttons wired through an Arduino Uno. You are BloomBot, an old maintenance droid who has awakened to restore the Earth. Till the soil, plant seeds, and fix solar panels to revive the environment. The game blends physical hardware with visuals and ambient sound to explore themes of restoration, care, and environmental healing.
 
 Core Mechanics
+
 Three tools: Soil (till ground), Plant (grow greenery), Fix (repair tech).
 
 
@@ -34,8 +35,11 @@ One-minute gameplay session, with a visual countdown and ending message.
 
 
 Ambient sounds and nature loops create an immersive environment.
+
 Technical Overview
+
 p5.js (JavaScript)
+
 Reads serial data from Arduino.
 
 
